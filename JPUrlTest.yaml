@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD, stripchat
   - DOMAIN-SUFFIX,fc2.com
   - DOMAIN-SUFFIX,fc2hub.com
   - DOMAIN-SUFFIX,fc2ppvdb.com
