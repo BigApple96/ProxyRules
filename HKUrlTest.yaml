@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,stripchat
   - DOMAIN-KEYWORD,hoy.tv
   - DOMAIN-KEYWORD,rthktv
   - DOMAIN-SUFFIX,hanime1.me
