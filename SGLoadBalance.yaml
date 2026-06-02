@@ -1,8 +1,0 @@
-payload:
-  - IP-CIDR,91.108.56.0/22
-  - IP-CIDR,149.154.165.0/20
-  - IP-CIDR,149.154.175.0/20
-  - DOMAIN-KEYWORD,telegram_cdn
-  - DOMAIN-KEYWORD,telemetsco
-  - DOMAIN-SUFFIX,cdn-telegram.org
-  - DOMAIN-SUFFIX,nogizaka46.vip
