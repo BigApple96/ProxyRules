@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-KEYWORD,kick
+  - DOMAIN-KEYWORD,stripchat
   - DOMAIN-SUFFIX,fc2.com
   - DOMAIN-SUFFIX,fc2hub.com
   - DOMAIN-SUFFIX,fc2ppvdb.com
@@ -13,3 +14,4 @@ payload:
   - DOMAIN-SUFFIX,glastonr.net
   - DOMAIN-SUFFIX,fortunemusic.jp
   - DOMAIN-SUFFIX,ctee.jp
+  - DOMAIN-SUFFIX,doppiocdn.net
